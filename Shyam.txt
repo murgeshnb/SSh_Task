@@ -1,2 +1,3 @@
 Marks for shyam
 Maths score: 90 out of 100
+Science score: 90 out of 100
